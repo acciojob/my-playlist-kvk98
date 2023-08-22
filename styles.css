@@ -1,4 +1,7 @@
 /*  your css code here. If applicable */
+h1, h2 {
+	text-align:center;
+}
 .playlist {
 	background-color: rgb(204, 204, 204);
 	text-align:center;
@@ -24,7 +27,7 @@
 	width:400px;
 	margin:auto;
 	border-radius:10px;
-	text-align:left;
+	text-align:center;
 	padding:10px;
 }
 
